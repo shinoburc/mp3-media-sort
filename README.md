@@ -17,8 +17,8 @@ mp3 リストはどうも本体に書き込んだ順で表示されているよ�
 ## Setup
 
 ```sh
-$ git clone git@github.com:shinoburc/.git
-$ cd 
+$ git clone git@github.com:shinoburc/mp3-media-sort.git
+$ cd mp3-media-sort
 $ python sort.py <LEVIN-X26-MOUNT-POINT-DIRECTORY> <TEMPORARY-DIRECTORY>
 ```
 
