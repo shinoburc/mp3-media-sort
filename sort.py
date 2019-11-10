@@ -28,7 +28,7 @@ def main():
                 # replace dest path to src path
                 src_file_path = re.sub(r'^'+dest, src, dest_file_path)
 
-                # copy dest file to src file
+                # remove src file
                 print("removing", src_file_path, "...")
                 os.remove(src_file_path)
 
