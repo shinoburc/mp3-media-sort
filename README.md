@@ -3,7 +3,7 @@ LEVIN X26 MP3 Player Sort
 
 ## About
 
-LEVIN X26 という安い MP3 Player を買って、Blutooth イヤホンが使えたり、SD カードで容量拡張できたり、
+LEVIN X26 という安い([Amazon](https://www.amazon.co.jp/gp/product/B06Y5S6YSZ) で2,041円) MP3 Player を買って、Blutooth イヤホンが使えたり、SD カードで容量拡張できたり、
 音質も申し分ないのだけれども、何をお考えなのか mp3 リストの「ソート機能」がないということに衝撃を受けました。
 
 mp3 リストはどうも本体に書き込んだ順で表示されているようです。このプロダクトを世に出すことに誰も異を唱えなかったのでしょうか。
